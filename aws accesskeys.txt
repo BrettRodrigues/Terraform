@@ -1,0 +1,2 @@
+access_key = "AKIA43HCXGKEEFHI3QGO"
+secret_key = "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"
